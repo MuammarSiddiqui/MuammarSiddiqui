@@ -1,7 +1,7 @@
 
  <p align="center">
 
-  <img src="./assets/Muammar.png" height="200px"/>
+  <img src="./assets/Muammar.png" height="300px"/>
 </p>
 
 

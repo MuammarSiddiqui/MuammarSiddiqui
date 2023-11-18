@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**MuammarSiddiqui/MuammarSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Muammar Siddiqui | .NET Core Developer
 
-Here are some ideas to get you started:
+![Header](assets/header.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate Web Designer & Developer
+
+---
+
+## About Me
+
+Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over 1 and a half years of professional experience. I thrive on crafting high-quality, scalable applications in the ever-evolving world of web development.
+
+![Developer](assets/developer.gif)
+
+- 💼 **Professional Experience:** 2+ years
+- 🚀 **Expertise:** .NET Core, C#, ASP.NET, JavaScript
+- 🛠 **Technologies:** ASP.NET Core, SQL Server, HTML/CSS, Angular CLI, Bootstrap
+- 🌐 **Cross-platform Enthusiast:** Proficient in different versions of .NET
+
+---
+
+## My Passion
+
+I find my passion in software development, specializing in ASP.NET Core. My commitment extends beyond the code, ensuring I stay updated with industry trends to craft modern and efficient solutions. I've successfully worked on projects like a customer relationship management system and integrated third-party payment gateways.
+
+![Passion](assets/passion.jpg)
+
+---
+
+## Skills Snapshot
+
+![Skills](assets/skills.png)
+
+- **ASP .NET CORE:** 80%
+- **HTML/CSS:** 99%
+- **SQL:** 70%
+- **ANGULAR CLI:** 75%
+- **BOOTSTRAP:** 95%
+- **ADOBE ILLUSTRATOR:** 67%
+- **JAVASCRIPT:** 80%
+- **REACT JS:** 60%
+
+---
+
+

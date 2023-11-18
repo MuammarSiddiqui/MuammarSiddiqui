@@ -95,10 +95,17 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
 
 
 ### Backend / Full Stack Technologies
+
 <p align="left">
- <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NetCore-339933?style=for-the-badge&logo=logoColor=white" alt=".Net Core"/> </a>
- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.Net-339933?style=for-the-badge&logo=dotNet&logoColor=white" alt=".Net "/> </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Laravel-339933?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel "/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/.NetCore-339933?style=for-the-badge&logo=.net-core&logoColor=white" alt=".Net Core"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/.Net-339933?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Laravel-339933?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  </a>
 </p>
 
 

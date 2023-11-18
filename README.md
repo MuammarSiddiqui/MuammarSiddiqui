@@ -65,49 +65,48 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
 # ⚡ Skills
 
 ## 📌 Languages
+
 <p align=center>
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-C#-cc6699?style=for-the-badge&logo=C#&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-SQLServer-cc6699?style=for-the-badge&logo=SQLServer&logoColor=ffffff">
-<img src = "https://img.shields.io/badge/-Asp.Net-1572B6?style=for-the-badge&logo=Asp.Net">
-<img src = "https://img.shields.io/badge/-Asp.NetCore-1572B6?style=for-the-badge&logo=Asp.NetCore">
-<img src = "https://img.shields.io/badge/-WebApis-1572B6?style=for-the-badge&logo=WebApis">
-<img src = "https://img.shields.io/badge/-ANGULARCLI-1572B6?style=for-the-badge&logo=ANGULARCLI">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-CSharp-cc6699?style=for-the-badge&logo=CSharp" alt="CSharp">
+  <img src="https://img.shields.io/badge/-SQLServer-cc6699?style=for-the-badge&logo=Microsoft-SQL-Server" alt="SQLServer">
+  <img src="https://img.shields.io/badge/-Asp.Net-1572B6?style=for-the-badge&logo=asp.net" alt="Asp.Net">
+  <img src="https://img.shields.io/badge/-Asp.NetCore-1572B6?style=for-the-badge&logo=.net" alt="Asp.NetCore">
+  <img src="https://img.shields.io/badge/-WebApis-1572B6?style=for-the-badge&logo=webapi" alt="WebApis">
+  <img src="https://img.shields.io/badge/-ANGULARCLI-1572B6?style=for-the-badge&logo=angular" alt="ANGULAR CLI">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript" alt="TypeScript"/>
 </p>
 
 
 ## 🧰 Frameworks and libraries
-
 ### Frontend Technologies
-<p align=left>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-593D88?style=for-the-badge&logo=HTML&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-593D88?style=for-the-badge&logo=HTML&logoColor=white">
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-593D88?style=for-the-badge&logo=HTML&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-593D88?style=for-the-badge&logo=HTML&logoColor=white">
-<img alt="AngularCLI" src="https://img.shields.io/badge/AngularCLI-593D88?style=for-the-badge&logo=AngularCLI&logoColor=white">
-<img alt="Material UI" src="https://img.shields.io/badge/Material-593D88?style=for-the-badge&logo=HTML&logoColor=white">
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
-</p>
 
+<p align=left>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-593D88?style=for-the-badge&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-593D88?style=for-the-badge&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-593D88?style=for-the-badge&logo=javascript">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-593D88?style=for-the-badge&logo=typescript">
+  <img alt="AngularCLI" src="https://img.shields.io/badge/AngularCLI-593D88?style=for-the-badge&logo=angular">
+  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-593D88?style=for-the-badge&logo=material-ui">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"> 
+</p>
 
 ### Backend / Full Stack Technologies
 
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/.NetCore-339933?style=for-the-badge&logo=.net-core&logoColor=white" alt=".Net Core"/>
+    <img src="https://img.shields.io/badge/.NetCore-339933?style=for-the-badge&logo=.net-core" alt=".Net Core"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/.Net-339933?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
+    <img src="https://img.shields.io/badge/.Net-339933?style=for-the-badge&logo=.net" alt=".Net"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Laravel-339933?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Laravel-339933?style=for-the-badge&logo=laravel" alt="Laravel"/>
   </a>
 </p>
-
 
 ### Database
 <p align="left">
@@ -120,7 +119,7 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
 
   
 <hr>
-<!-- 
+
 ## 📌 GitHub Stats
 
 <div align="center">
@@ -128,10 +127,15 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuammarSiddiqui&theme=highcontrast&fire=DC143C&currStreakLabel=FFFFFF&background=000000&border=DC143C&stroke=DC143C&ring=DC143C" alt="Muammar Siddiqui" />
 
 
-
-
-
 </p>
-  <img alt="Essa Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
- -->
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img alt="Muammar Siddiqui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=FFFFFF&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
+</p>
+
+<p align="center"></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=FFFFFF&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
+</p>
+
+

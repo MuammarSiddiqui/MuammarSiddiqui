@@ -130,9 +130,9 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
   <img alt="Muammar Siddiqui's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=FFFFFF&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
-</p>
+</p> -->
 
 <p align="center"></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=FFFFFF&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />

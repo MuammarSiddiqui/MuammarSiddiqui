@@ -120,7 +120,7 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
 
   
 <hr>
-
+<!-- 
 ## 📌 GitHub Stats
 
 <div align="center">
@@ -134,4 +134,4 @@ Hey there! I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 
 </p>
   <img alt="Essa Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuammarSiddiqui&langs_count=10&layout=compact&theme=highcontrast&text_color=&icon_color=DC143C&border_color=DC143C&title_color=DC143C&show_icons=true&hide_border=false" />
-
+ -->
